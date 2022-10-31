@@ -1,16 +1,8 @@
 # flutteranimate
 
-A new Flutter project.
+Je vous présente un mini projet qui consiste a maîtriser les animations de Rive : https://rive.app/.
 
-## Getting Started
+C'est trés pratique et simple a utilisé.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![flutter-rive-animation](https://user-images.githubusercontent.com/74613897/199051154-d41c6021-4103-4de5-aa6f-9a97eb110559.gif)
